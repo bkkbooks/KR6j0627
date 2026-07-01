@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0627/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 拔濟苦難陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1395.xml
+    old_id: T21n1395
+hash: sha256:5ee72197051709373d0bb48ae42493d5fa68b725a8ca2845a79d8cde8f3ef410
