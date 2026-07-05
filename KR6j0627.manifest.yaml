@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0627_000.yaml, hash: 'sha256:5ee72197051709373d0bb48ae42493d5fa68b725a8ca2845a79d8cde8f3ef410'}
-  - {seq: 1, filename: KR6j0627_001.yaml, hash: 'sha256:b7988272433d96eb025deafe04d1ee8662186cb76a38ac3cfec568fd61a6fe3c'}
+  - {seq: 1, filename: KR6j0627_001.yaml, hash: 'sha256:574fffb3d8bc69a23417eefd15bea664f5b2d125a9d66bf4b39bbf99716a0042'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0627_001.markers.yaml, hash: 'sha256:fa4c74d0267ad2715e786339dba334ab22bebe29cff2d4eb1713342c4bbbe7ef'}
+  - {seq: 0, role: markers, filename: assets/KR6j0627_000.markers.yaml, hash: 'sha256:834d84b402f5ec8764c8951008aeec599726544edc2a0ba165d0d97290805810'}
+  - {seq: 1, role: markers, filename: assets/KR6j0627_001.markers.yaml, hash: 'sha256:e07066c1e6401e3bd9e390218d71b3c858473a33562dea425654b0d51b603956'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 拔濟苦難陀羅尼經
   type: juan
   level: 1
-hash: sha256:c63ea8ce5f78305b6f9b781adbe4b94294e4019b816a2065447fe4479df421cf
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ee0b64c03de8d2fcfcc584204d82e985ecc7122ed3208222eb32113210ecd229
