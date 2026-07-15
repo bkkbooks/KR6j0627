@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0627/v1
 canonical_location: https://kanripo.org/bkk/KR6j0627/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 拔濟苦難陀羅尼經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0627_000.yaml, hash: 'sha256:5ee72197051709373d0bb48ae42493d5fa68b725a8ca2845a79d8cde8f3ef410'}
-  - {seq: 1, filename: KR6j0627_001.yaml, hash: 'sha256:574fffb3d8bc69a23417eefd15bea664f5b2d125a9d66bf4b39bbf99716a0042'}
+  - {seq: 1, filename: KR6j0627_001.yaml, hash: 'sha256:a880fdac1b370f0aa393baa5b6a4ad4061e12ecb59d972142f20b26357257e78'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0627_000.markers.yaml, hash: 'sha256:834d84b402f5ec8764c8951008aeec599726544edc2a0ba165d0d97290805810'}
-  - {seq: 1, role: markers, filename: assets/KR6j0627_001.markers.yaml, hash: 'sha256:e07066c1e6401e3bd9e390218d71b3c858473a33562dea425654b0d51b603956'}
+  - {seq: 1, role: markers, filename: assets/KR6j0627_001.markers.yaml, hash: 'sha256:83810e08172639d995209d327cd222f6ae2de94c549416bb6c0719fa03143449'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 拔濟苦難陀羅尼經
   type: juan
   level: 1
-hash: sha256:ee0b64c03de8d2fcfcc584204d82e985ecc7122ed3208222eb32113210ecd229
+hash: sha256:0a19b4e737dfba26607d25decc21242a481f77ce1be0a5ba5ba3e358a815af9c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
